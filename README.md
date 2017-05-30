@@ -2,15 +2,15 @@
 
 Ссылки:
 
-http://localhost:8080/user/{id} (GET) - возвращает пользователя по id;
+http://localhost:8080/user/{id} (GET) - возвращает пользователя по указанному id;
 
-http://localhost:8080/user/{name} (GET) - возвращает пользователя по имени;
+http://localhost:8080/user/{name} (GET) - возвращает пользователя по указанному имени;
 
 http://localhost:8080/user/ (PUT) - (id, name, phone) обновляет пользователя по id;
 
 http://localhost:8080/user/ (POST) - (name, phone) добавляет нового пользователя;
 
-http://localhost:8080/user/{id} (DELETE) - удаляет пользователя по id;
+http://localhost:8080/user/{id} (DELETE) - удаляет пользователя по указанному id;
 
 http://localhost:8080/user/getAllUsers (GET) - возвращает всех пользователей;
 
